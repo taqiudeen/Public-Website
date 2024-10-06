@@ -2,3 +2,5 @@ Welcome to my GitHub repository! Here, you'll find a collection of my data proje
 
 The HTML files in my portfolio serve as its public face, showcasing my work and projects to a broader audience. These files are designed to provide an intuitive and engaging user experience, highlighting my skills in data analysis, programming, and database management. Through this online presence, I aim to connect with others interested in IT and data science, sharing insights and inviting collaboration.
 
+This is the video where I came up with the idea:
+https://www.youtube.com/watch?v=ocdwh0KYeUs&t=1s
